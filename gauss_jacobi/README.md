@@ -1,6 +1,84 @@
 # Algoritmo de Gauss-Jacobi
 Trabalho proposto durante as aulas de Cálculo numérico cujo objetivo era implementar o método iterativo Gauss-Jacobi. Neste trabalho o resultado final é feito utilizando como base a matriz e o vetor abaixo: 
-$\begin{bmatrix}13 + 1 & 3 & 2 & 1 & 0 & 0\\ 
-3 + 3 & 13 & 3 & 2 & 1 & 0 \\ 2+1 & 3 & 13 & 3 & 2 & 1\\
-1+1 & 2 & 3 & 13 & 3 & 2 \\ 0+3 & 1 & 2 & 3 & 13 & 3\\
-0+3 & 0 & 1 & 2 & 3 & 13 \end{bmatrix}$
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <!-- Matrix -->
+  <table border="1" style="border-collapse: collapse; text-align: center;">
+    <tr>
+      <td>13</td>
+      <td>1</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>13</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>3</td>
+      <td>13</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>13</td>
+        <td>3</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>13</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>13</td>
+    </tr>
+  </table>
+
+  <!-- Arrow -->
+  <span style="font-size: 20px; font-weight: bold;">→</span>
+
+  <!-- Vector -->
+  <table border="1" style="border-collapse: collapse; text-align: center;">
+    <tr>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>3</td>
+    </tr>
+  </table>
+
+</div>
