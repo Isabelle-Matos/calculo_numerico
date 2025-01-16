@@ -1,6 +1,6 @@
 # Algoritmo de Gauss-Jacobi
 Trabalho proposto durante as aulas de Cálculo numérico cujo objetivo era implementar o método iterativo Gauss-Jacobi. Neste trabalho o resultado final é feito utilizando como base a matriz e o vetor abaixo: 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: grid; grid-template-columns: auto auto; align-items: start; gap: 20px;">
 
   <!-- Matrix -->
   <table border="1" style="border-collapse: collapse; text-align: center;">
