@@ -80,3 +80,4 @@ Trabalho proposto durante as aulas de Cálculo numérico cujo objetivo era imple
   </table>
 
 </div>
+
