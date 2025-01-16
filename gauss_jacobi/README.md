@@ -54,9 +54,6 @@ Trabalho proposto durante as aulas de Cálculo numérico cujo objetivo era imple
     </tr>
   </table>
 
-  <!-- Arrow -->
-  <span style="font-size: 20px; font-weight: bold;">→</span>
-
   <!-- Vector -->
   <table border="1" style="border-collapse: collapse; text-align: center;">
     <tr>
