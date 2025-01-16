@@ -6,7 +6,6 @@ Trabalho proposto durante as aulas de Cálculo numérico cujo objetivo era imple
   <table border="1" style="border-collapse: collapse; text-align: center;">
     <tr>
       <td>13</td>
-      <td>1</td>
       <td>3</td>
       <td>2</td>
       <td>1</td>
@@ -14,7 +13,6 @@ Trabalho proposto durante as aulas de Cálculo numérico cujo objetivo era imple
       <td>0</td>
     </tr>
     <tr>
-      <td>3</td>
       <td>3</td>
       <td>13</td>
       <td>3</td>
